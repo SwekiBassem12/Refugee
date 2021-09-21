@@ -1,2 +1,2 @@
 # Refugee
-Desktop application for the refugees
+Web application for the refugees
