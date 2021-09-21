@@ -1,0 +1,3 @@
+esprit_homepage:
+    path:     /
+    defaults: { _controller: espritBundle:Default:index }
